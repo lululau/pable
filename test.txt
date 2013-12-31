@@ -1,0 +1,6 @@
+ID,      姓名,         Email,               角色,  锁定,  最后登陆    
+1,       admin,       team_mates@163.com,  管理员, 否,   2013-12-30 18:25    
+4,       Steve Jobs,  steve.jobs@teammate.pm,  部门经理,    否,   2013-12-28 15:17    
+5,       Bill Gates,  bill.gates@teammate.pm,  普通用户,    是,   2013-12-28 15:19    
+6,       张三,         zhang.san@teammate.pm,   普通用户,    否,       
+7,       李四,         li.si@teammate.pm,   普通用户,    否,   2013-12-29 22:46    
